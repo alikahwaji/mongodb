@@ -33,7 +33,7 @@ var newTask = new Todo({
 })
 
 newTask.save().then((doc) => {
-  console.log('Save new task', doc)
+  console.log(JSON.stringify(doc, undefined, 2))
 }, (e) => {
   console.log('Unable to save new task')
 })
