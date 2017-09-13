@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alikahwaji/mongodb/issues"
   },
-  "homepage": "https://github.com/alikahwaji/mongodb#readme"
+  "homepage": "https://github.com/alikahwaji/mongodb#readme",
+  "dependencies": {
+    "mongoose": "^4.5.9"
+  }
 }
