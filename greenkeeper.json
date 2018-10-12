@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "node-todo-api/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
